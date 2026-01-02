@@ -12,3 +12,6 @@ This is just a small repository to do some testing with the new Nextjs app route
 - Create procedures, see `/lib/api/procedures` for examples. You can think of procedures as different middlewares, where you can handle authorization and errors.
 - Create queries by calling the procedures you created. See `/lib/api/queries` for examples.
 - Create actions (mutations)
+
+
+Testing readme update
